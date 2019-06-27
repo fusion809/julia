@@ -1,0 +1,7 @@
+*.diff
+*.patch
+*.xz
+*.gz
+*.asc
+pkg
+src
